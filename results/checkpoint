@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/tongzhou/PycharmProjects/Thesis/DRAW/results/drawmodel.ckpt"
+all_model_checkpoint_paths: "/Users/tongzhou/PycharmProjects/Thesis/DRAW/results/drawmodel.ckpt"
